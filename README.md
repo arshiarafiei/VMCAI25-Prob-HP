@@ -1,4 +1,4 @@
-# Efficient Discovery of Actual Causality with Uncertainty
+# Efficient Discovery of Actual Causality with n Stochastic Systems
 
 ## Introduction
 In this repository you can explore our case studies and their implementations.  Here we provide a guide for the implementation of our algorithm on three case studies: Mountain Car for OpenAI Gym, Lunar Lander from OpenAI Gym, and an F16 autopilot simulator from [here](https://github.com/stanleybak/AeroBenchVVPython.git).
